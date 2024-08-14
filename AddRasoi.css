@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+._mainform90{
+    width:1520px;
+    height:720px;
+    background-color: fuchsia;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url('img/bg-hero1.jpg');
+}
+._ibv890{
+    width:350px;
+    height:420px;
+    background-color: paleturquoise;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: white;
+    border:none;
+}
+#addrasoi{
+    font-size: 30px;
+    padding: 50px;
+    font-weight: 900;
+}
+.formfileds097{
+    width:280px;
+    height:40px;
+    background-color: rgb(243, 240, 235);
+    margin-top: 20px;
+    border: none;
+    text-align: center;
+    
+}
+.sun90{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.bus009{
+    margin-top: 20px;
+    margin-left:-20px;
+    height:30px;
+}
+.formfileds097:hover{
+    border: 2px solid rgb(197, 131, 10);
+    background-color: rgb(236, 203, 170);
+}

@@ -1,0 +1,96 @@
+/* body{
+    background-color: rgb(188, 112, 112);
+} */
+ 
+
+
+._mdv003{
+    width: 1280px;
+    height:550px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url('img/bg-hero1.jpg');
+    background-size: contain;
+    background-position: center center;
+}
+.login-container-main{
+    width:400px;
+    height:350px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: rgba(220, 210, 210, 0.19) 0px 10px 20px, rgba(209, 198, 198, 0.23) 0px 6px 6px;
+}
+.logos-image{
+    width:100px;
+    height:100px;
+    border-radius: 50px;
+    /* border:1px solid black; */
+    margin-left: 150px;
+    margin-top: 10px;
+    background-image: url('img/CR-icon.png');
+    background-size: cover;
+
+  }
+  #phones{
+    border-radius: 25px;
+    background-color: #ded5d5;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 10px;
+    height:30px;
+    width:300px;
+    border:none;
+}
+._bt10{
+    width:100px;
+    /* height:20px; */
+    font-size: 17px;
+    text-align: center;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #FEA116;
+    margin-left: 155px;
+}
+
+#_ph00{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 1px solid grey;
+    transition: .2s ease-out;
+
+}
+
+#_ph00:hover{
+    border: 1px solid #FEA116;
+    /* box-shadow: 0 4px 8px 0 rgb(246, 176, 56,0.2), 0 6px 20px 0 rgba(246, 176, 56, 0.15); */
+    box-shadow: 0 3px 10px rgba(0, 0, 0, .2);
+    transform: translate3d(0,-2px,0);
+    
+}
+#para{
+    /* margin-left: 20px; */
+    margin-top: 10px;
+    text-align: center;
+}
+
+._moic00{
+    position: absolute;
+    font-size: 17px;
+    margin-top: 17px;
+    padding-left: 70px;
+}
+
+._moic101{
+    position: absolute;
+    font-size: 19px;
+    margin-top: 17px;
+    padding-left: 70px;
+}
+
