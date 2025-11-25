@@ -62,27 +62,8 @@ Copy code
 npm start
 Access the Application:
 
-Open your web browser and go to http://localhost:3000 to access the application.
-Usage
-Vendor: Sign up, log in, and start managing your food items from the dashboard.
-Customer: Browse available food options, add items to your cart, and place an order.
-Delivery Partner: Register, receive delivery assignments, and manage deliveries.
-Database Schema
-(Provide an overview of your database schema here, including the tables and their relationships. You can include an ER diagram if available.)
-
-Contributing
-Contributions are welcome! Please follow these steps to contribute:
-
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add your feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
 Muskan Lalwani
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
+Email: lmuskan650@gmail.com
+
